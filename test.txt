@@ -1,2 +1,6 @@
 test thu phat
+<<<<<<< HEAD
 aaaa viet them ( branch master 3 )
+=======
+aaaa viet them ( branch test 4 )
+>>>>>>> test
