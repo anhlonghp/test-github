@@ -1,6 +1,2 @@
 test thu phat
-<<<<<<< HEAD
 aaaa viet them 2
-=======
-aaaa viet them 1
->>>>>>> master
